@@ -1,0 +1,23 @@
+{
+  "name": "aspax-jade-handler",
+  "version": "0.6.0",
+  "description": "Plugin enabling ASPAX to handle Jade files.",
+  "repository": "git://github.com/icflorescu/aspax-jade-handler",
+  "keywords": [
+    "aspax",
+    "jade",
+    "template",
+    "js",
+    "compilation"
+  ],
+  "author": {
+    "name": "Ionut-Cristian Florescu",
+    "email": "ionut.florescu@gmail.com",
+    "url": "https://coderwall.com/icflorescu"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "iced-coffee-script": "~1.6.3-i",
+    "jade": "~0.35.0"
+  }
+}
