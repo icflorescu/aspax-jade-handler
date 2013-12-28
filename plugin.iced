@@ -29,7 +29,7 @@ exports.compile = (file, flags, callback) ->
   return callback err if err
 
   try
-    contents = jade.compile contents,
+    contents = jade.compileClient contents,
       filename:     file
       client:       yes
       compileDebug: no

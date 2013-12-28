@@ -1,6 +1,6 @@
 {
   "name": "aspax-jade-handler",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Plugin enabling ASPAX to handle Jade files.",
   "repository": "git://github.com/icflorescu/aspax-jade-handler",
   "homepage": "http://aspax.github.io",
