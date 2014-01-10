@@ -1,6 +1,6 @@
 {
   "name": "aspax-jade-handler",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "Plugin enabling ASPAX to handle Jade files.",
   "repository": "git://github.com/icflorescu/aspax-jade-handler",
   "homepage": "http://aspax.github.io",
@@ -19,6 +19,6 @@
   "license": "MIT",
   "dependencies": {
     "iced-coffee-script": "~1.6.3-j",
-    "jade": "~1.0.0"
+    "jade": "~1.1.4"
   }
 }
