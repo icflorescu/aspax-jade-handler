@@ -1,4 +1,6 @@
 ## What's this?
+[![NPM version](https://badge.fury.io/js/aspax-jade-handler.png)](http://badge.fury.io/js/aspax-jade-handler)
+
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [Jade](http://jade-lang.com) files.
 
 ## Installation
