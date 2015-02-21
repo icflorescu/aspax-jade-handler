@@ -1,6 +1,6 @@
 {
   "name": "aspax-jade-handler",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "Plugin enabling ASPAX to handle Jade files.",
   "keywords": [
     "aspax",
@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "iced-coffee-script": "^1.8.0-c",
-    "jade": "^1.9.1"
+    "jade": "^1.9.2"
   },
   "engines": {
     "node": ">=0.8.16"

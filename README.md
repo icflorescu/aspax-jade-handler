@@ -1,6 +1,8 @@
 ## What's this?
-[![NPM version](https://badge.fury.io/js/aspax-jade-handler.png)](http://badge.fury.io/js/aspax-jade-handler)
-[![Dependency Status](https://david-dm.org/icflorescu/aspax-jade-handler.png)](https://david-dm.org/icflorescu/aspax-jade-handler)
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status][david-image]][david-url]
+[![License][license-image]][license-url]
+[![Downloads][downloads-image]][downloads-url]
 
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [Jade](http://jade-lang.com) files.
 
@@ -40,3 +42,12 @@ This plugin is smart enough to recursively scan for `include` statements and aut
 If you find this piece of software useful, please [tweet about ASPAX](http://twitter.com/share?text=Checkout%20ASPAX%2C%20the%20simple%20Node.js%20asset%20packager!&url=http%3A%2F%2Faspax.github.io&hashtags=aspax&via=icflorescu) and endorse me on LinkedIn:
 
 [![Ionut-Cristian Florescu on LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png)](https://www.linkedin.com/in/icflorescu)
+
+[npm-image]: https://img.shields.io/npm/v/aspax-jade-handler.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/aspax-jade-handler
+[david-image]: http://img.shields.io/david/icflorescu/aspax-jade-handler.svg?style=flat-square
+[david-url]: https://david-dm.org/icflorescu/aspax-jade-handler
+[license-image]: http://img.shields.io/npm/l/aspax-jade-handler.svg?style=flat-square
+[license-url]: LICENSE
+[downloads-image]: http://img.shields.io/npm/dm/aspax-jade-handler.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/aspax-jade-handler
