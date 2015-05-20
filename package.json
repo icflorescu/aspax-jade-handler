@@ -1,6 +1,6 @@
 {
   "name": "aspax-jade-handler",
-  "version": "0.9.7",
+  "version": "1.0.1",
   "description": "Plugin enabling ASPAX to handle Jade files.",
   "keywords": [
     "aspax",
